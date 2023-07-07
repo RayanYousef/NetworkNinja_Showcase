@@ -1,6 +1,6 @@
 
 # Network Ninja (Unity)
-![alt text](https://raw.githubusercontent.com/RayanYousef/Unity_2D_Space_Shooter/main/Space%20War.png)
+![alt text](https://raw.githubusercontent.com/RayanYousef/NetworkNinja_Showcase/main/Screenshot_2.png)
 <br/>
 
 A 2D space shooter game was created where the player must avoid incoming meteors and fire back to defend their spaceship. In addition, the game includes power-ups that enhance the ship's attack and movement speed. The game was developed using Phaser and JavaScript.
