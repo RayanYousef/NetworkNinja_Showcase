@@ -19,7 +19,10 @@ Network Ninja is an exciting action hack-and-slash game designed to engage playe
 - Varied adversaries: A wide array of opponents, including normal enemies, mini bosses, and formidable boss characters. (more enemies may be implemented in the future).
 
 
-**My Role in the Project:**
+**My Roles in the Project:**
+- Main Character Scripting: Controlled movement, camera dynamics, damage systems, animations, and more for the main character.
+- Programming Team Lead: Oversaw programming aspects and promoted effective collaboration within the team.
+- Code Architecture: Designed a solid foundation for the game's codebase, enabling seamless interaction and communication among scripts and components.
 
 
 <br/>
