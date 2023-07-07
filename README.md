@@ -3,12 +3,23 @@
 ![alt text](https://raw.githubusercontent.com/RayanYousef/NetworkNinja_Showcase/main/Screenshot_2.png)
 <br/>
 
-A 2D space shooter game was created where the player must avoid incoming meteors and fire back to defend their spaceship. In addition, the game includes power-ups that enhance the ship's attack and movement speed. The game was developed using Phaser and JavaScript.
+####Network Ninja is my graduation project from the Information Technology Institute, and we are continuing to work on it post-graduation to further enhance its quality.
+Network Ninja is an exciting action hack-and-slash game designed to engage players while raising awareness about password security. It combines thrilling gameplay with valuable educational content to ensure players stay captivated while learning important cybersecurity principles. 
 
 **Features:**
--   2D space shooter game with the objective of avoiding incoming meteors and defending the player's spaceship.
--   Includes power-ups to enhance the ship's attack and movement speed.
--   Developed using Phaser and JavaScript.
+
+- Password security awareness: A strong emphasis is placed on raising awareness among players regarding the creation of robust passwords, the avoidance of password sharing, and the risks associated with using the same password across multiple sites. These crucial aspects have been implemented as core features in the game.
+
+- Diverse player abilities and Ultimate mode: Players are provided with a range of skills that can be utilized to navigate the game world effectively. Furthermore, Ultimate mode, characterized by slow motion, can be activated as the ultimate gauge is filled, offering players an exhilarating experience.
+
+- Fluid movement mechanics: Basic movement mechanics, such as jumping and dashing, have been incorporated into the game, allowing for seamless and agile traversal through the immersive environments. (jump has been implemented for future plans, it doesn't have any use in this version).
+
+- Varied adversaries: A wide array of opponents, including normal enemies, mini bosses, and formidable boss characters. (more enemies may be implemented in the future).
+
+
+**My Role in the Project:**
+
+
 <br/>
 Video Link: 
-https://drive.google.com/file/d/1zGQ2NOun4076zS4gXNIjHiq6s9WGfzbK/view?usp=share_link
+______________________________________________
