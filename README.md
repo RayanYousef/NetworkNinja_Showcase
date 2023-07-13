@@ -3,7 +3,7 @@
 ![alt text](https://raw.githubusercontent.com/RayanYousef/NetworkNinja_Showcase/main/Screenshot_2.png)
 <br/>
 
-## Network Ninja is my graduation project from the Information Technology Institute, and we are continuing to work on it post-graduation to further enhance its quality.
+## Network Ninja is a serious game developed for EG-Cert (Egyptian Computer Emergency Readiness Team) with the primary objective of raising awareness about crucial aspects of cyber security.
 
 
 Network Ninja is an exciting action hack-and-slash game designed to engage players while raising awareness about password security. It combines thrilling gameplay with valuable educational content to ensure players stay captivated while learning important cybersecurity principles. 
