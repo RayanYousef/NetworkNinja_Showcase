@@ -10,9 +10,10 @@ Network Ninja is an exciting action hack-and-slash game designed to engage playe
 
 
 **My Roles in the Project:**
-- Main Character Scripting: movement behavior, camera behavior, damage behavior, animations, and everything related to the main character.
 - Programming Team Lead: Oversaw programming aspects and promoted effective collaboration within the team.
 - Code Architecture: Designed a solid foundation for the game's codebase, enabling seamless interaction and communication among scripts and components.
+- Main Character Scripting: movement behavior, camera behavior, damage behavior, animations, and everything related to the main character.
+
 
 **Features:**
 
