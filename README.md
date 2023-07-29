@@ -32,4 +32,9 @@ Network Ninja is an exciting action hack-and-slash game designed to engage playe
 Gameplay Video Link: 
 https://drive.google.com/file/d/19PhogJuXqhvriExU712UZ8bufOTLkO0j/preview
 
+<a href="[LINK_TO_VIDEO_ON_GOOGLE_DRIVE](https://drive.google.com/file/d/19PhogJuXqhvriExU712UZ8bufOTLkO0j/preview)">
+  <img src="DIRECT_LINK_TO_THUMBNAIL_IMAGE" alt="Thumbnail Image">
+</a>
+
+
 
